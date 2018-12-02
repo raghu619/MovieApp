@@ -36,7 +36,7 @@
 
         <provider
             android:name=".Data.MovieContentProvider"
-            android:authorities="com.example.android.moviezone"
+            android:authorities="com.example.android.moviezone.Data.MovieContentProvider"
             android:exported="false"></provider>
 
     </application>
